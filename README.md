@@ -19,3 +19,27 @@ This is a Chrome extension that integrates an AI-powered chatbot into the Maang.
    ```bash
    git clone https://github.com/your-username/Submission.git
    cd Submission
+
+2. **Update API Key**:
+
+   Replace the API_KEY in content.js with your key from the Google Generative Language API.
+
+3. **Load the Extension in Chrome**:
+
+   Open Chrome and navigate to chrome://extensions/.
+   Enable Developer Mode (toggle in the top-right corner).
+   Click Load unpacked and select the Submission folder.
+
+## How It Works
+   
+   On visiting a problem page on Maang.in, the AI Helper button will appear.
+   
+   Clicking the button opens a chatbot interface for interacting with the AI.
+   
+   The AI is preloaded with the problem description, input format, and output format, enabling it to answer user queries effectively.
+
+## Contributing
+   
+   Contributions are welcome! Feel free to open issues or create pull requests to enhance the project.
+
+
