@@ -17,7 +17,7 @@ This is a Chrome extension that integrates an AI-powered chatbot into the Maang.
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/Submission.git
+   git clone https://github.com/EnoshVechalapu/Submission.git
    cd Submission
 
 2. **Update API Key**:
