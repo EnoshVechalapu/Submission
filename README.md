@@ -1,6 +1,6 @@
-# Submission - AI Helper Chrome Extension for Maang.in
+#  AI Helper Chrome Extension for Maang.in
 
-**Submission** is a Chrome extension that integrates an AI-powered chatbot into the Maang.in coding platform, designed to assist users in understanding coding problems and answering queries effectively.
+This is a Chrome extension that integrates an AI-powered chatbot into the Maang.in coding platform, designed to assist users in understanding coding problems and answering queries effectively.
 
 ---
 
