@@ -1,41 +1,21 @@
-# Chrome-Extension-Base-Template
-This is a basic Chrome Extension base template for starting new projects off of initialized with a MIT license.
+# Submission - AI Helper Chrome Extension for Maang.in
+
+**Submission** is a Chrome extension that integrates an AI-powered chatbot into the Maang.in coding platform, designed to assist users in understanding coding problems and answering queries effectively.
+
+---
 
 ## Features
-- ..
-- ..
-- ..
 
-## Author
-First Last
-- [Author Website]()
-- [Author Github]()
-- [Project Repository]()
+- **AI Helper Button**: Adds an "AI Helper" button to problem pages on Maang.in.
+- **Integrated Chat Interface**: Opens a chatbot interface for interaction with the AI.
+- **Problem Context Awareness**: Automatically extracts and sends the problem description, input format, and output format to the AI for better context-aware responses.
+- **Interactive Assistance**: Users can ask questions directly to the AI about the problem at hand.
 
-## Requirements
-### Knowledge
-- HTML
-- CSS
-- Javascript
-- Chrome API
-### Tools
-- Google Chrome Browser
-- IDE or Text Editor of Your Choice
+---
 
-## Setup Instructions
-### For Developers
-1. Make a clone of this project, unzipped.
-2. Open Chrome Browser
-3. In a new or blank tab, type in "chrome://extensions/" (without the quotes of course) and click [Enter].
-4. At the top right corner of the page, **enable** "Developer Mode"
-5. Click the button on the page that says "Load Unpacked"
-6. Navigate to your unzipped project folder and select that and hit OK.
-7. You are now ready to start working on the extension! Just make sure you reload after each change you make to see the changes take place.
+## Setup and Installation
 
-### For End Users
-1. ...
-2. ...
-3. ...
-
-## License
-Please refer to LICENSE file.
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/your-username/Submission.git
+   cd Submission
